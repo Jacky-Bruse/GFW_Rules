@@ -218,10 +218,10 @@
       "tag":"🌏 !cn",
       "type":"selector",
       "outbounds":[
-        "direct",
         "proxy",
 		"auto",
         "{all}"
+		"direct"
       ]
     },
     {
@@ -672,8 +672,14 @@
         "format": "binary",
         "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/Advertising.json",
         "download_detour": "auto"
+      },
+	  {
+        "tag": "geosite-geolocation-!cn",
+        "type": "remote",
+        "format": "source",
+        "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/Global.json",
+        "download_detour": "auto"
       }
-	  
     ]
   }
 }
