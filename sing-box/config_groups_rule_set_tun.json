@@ -110,7 +110,7 @@
       "type":"selector",
       "outbounds":[
         "proxy",
-		"auto",
+	"auto",
         "direct",
         "{all}"
       ]
@@ -120,7 +120,7 @@
       "type":"selector",
       "outbounds":[
         "proxy",
-		"auto",
+	"auto",
         "direct",
         "{all}"
       ]
@@ -130,7 +130,7 @@
       "type":"selector",
       "outbounds":[
         "proxy",
-		"auto",
+	"auto",
         "direct",
         "{all}"
       ]
@@ -140,7 +140,7 @@
       "type":"selector",
       "outbounds":[
         "proxy",
-		"auto",
+	"auto",
         "direct",
         "{all}"
       ]
@@ -150,7 +150,7 @@
       "type":"selector",
       "outbounds":[
         "proxy",
-		"auto",
+	"auto",
         "direct",
         "{all}"
       ]
@@ -161,7 +161,7 @@
       "outbounds":[
         "direct",
         "proxy",
-		"auto",
+	"auto",
         "{all}"
       ]
     },
@@ -171,7 +171,7 @@
       "outbounds":[
         "direct",
         "proxy",
-		"auto",
+	"auto",
         "{all}"
       ]
     },
@@ -181,7 +181,7 @@
       "outbounds":[
         "direct",
         "proxy",
-		"auto",
+	"auto",
         "{all}"
       ]
     },
@@ -191,7 +191,7 @@
       "outbounds":[
         "direct",
         "auto",
-		"proxy",
+	"proxy",
         "{all}"
       ]
     },
@@ -200,7 +200,7 @@
       "type":"selector",
       "outbounds":[
         "direct",
-		"auto"
+	"auto"
 
       ]
     },
@@ -209,7 +209,7 @@
       "type":"selector",
       "outbounds":[
         "proxy",
-		"auto",
+	"auto",
         "direct",
         "{all}"
       ]
@@ -219,9 +219,8 @@
       "type":"selector",
       "outbounds":[
         "proxy",
-		"auto",
+	"auto",
         "{all}"
-		"direct"
       ]
     },
     {
