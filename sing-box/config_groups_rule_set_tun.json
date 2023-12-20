@@ -196,7 +196,7 @@
       ]
     },
     {
-      "tag":"📺 Bilibili",
+      "tag":"📺 CN",
       "type":"selector",
       "outbounds":[
         "direct",
@@ -357,7 +357,7 @@
       },
       {
         "rule_set": "geosite-bilibili,geosite-wechat",
-        "outbound": "📺 Bilibili"
+        "outbound": "📺 CN"
       },
       {
         "rule_set": ["geosite-tiktok","geosite-netflix","geosite-hbo","geosite-disney","geosite-primevideo"],
@@ -381,6 +381,20 @@
       }
     ],
     "rule_set": [
+      {
+       "tag": "geosite-wechat",
+       "type": "remote",
+       "format": "source",
+       "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/WeChat.json",
+       "download_detour": "auto"
+      },
+      {
+       "tag": "geosite-wechat",
+       "type": "remote",
+       "format": "source",
+       "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/WeChat.json",
+       "download_detour": "auto"
+      },
       {
         "tag": "geoip-google",
         "type": "remote",
@@ -556,11 +570,12 @@
        "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
        "download_detour": "auto"
       },
+
       {
-       "tag": "geosite-wechat",
+       "tag": "geosite-twitter",
        "type": "remote",
        "format": "source",
-       "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
+       "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/Twitter.json",
        "download_detour": "auto"
       },
     ]
