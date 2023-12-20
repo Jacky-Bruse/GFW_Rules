@@ -574,110 +574,12 @@
         "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ads-all.srs",
         "download_detour": "direct"
       },
-	  {
-        "tag": "geosite-google",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/Google.json",
-        "download_detour": "auto"
-      },
       {
-        "tag": "geosite-telegram",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/Telegram.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-twitter",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/Twitter.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-facebook",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/Facebook.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geoip-cn",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/ChinaIPs.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-openai",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/OpenAI.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-youtube",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/YouTube.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-github",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/GitHub.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-apple",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/Apple.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-microsoft",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/Microsoft.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-category-games",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/Game.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-tiktok",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/DouYin.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-cn",
-        "type": "remote",
-        "format": "source",
-        "url": "https://github.com/Jacky-Bruse/Sing-rule/raw/main/rule/ChinaMaxNoIP.json",
-        "download_detour": "auto"
-      },
-      {
-        "tag": "geosite-category-ads-all",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/Advertising.json",
-        "download_detour": "auto"
-      },
-	  {
-        "tag": "geosite-geolocation-!cn",
-        "type": "remote",
-        "format": "source",
-        "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/Global.json",
-        "download_detour": "auto"
+  "tag": "geosite-wechat",
+  "type": "remote",
+  "format": "source",
+  "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
+  "download_detour": "auto"
       }
     ]
   }
