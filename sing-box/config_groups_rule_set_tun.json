@@ -553,7 +553,7 @@
        "tag": "geosite-wechat",
        "type": "remote",
        "format": "source",
-       "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
+       "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/Google.json",
        "download_detour": "auto"
       }
     ]
