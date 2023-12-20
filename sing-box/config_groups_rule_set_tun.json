@@ -360,10 +360,6 @@
         "outbound": "📺 Bilibili"
       },
       {
-        "rule_set": "geoip-netflix",
-        "outbound": "🎬 MediaVideo"
-      },
-      {
         "rule_set": ["geosite-tiktok","geosite-netflix","geosite-hbo","geosite-disney","geosite-primevideo"],
         "outbound": "🎬 MediaVideo"
       },
@@ -526,27 +522,6 @@
         "download_detour": "direct"
       },
       {
-        "tag": "geosite-netflix",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/netflix.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "geosite-hbo",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/hbo.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "geosite-disney",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/disney.srs",
-        "download_detour": "direct"
-      },
-      {
         "tag": "geosite-primevideo",
         "type": "remote",
         "format": "binary",
@@ -580,7 +555,14 @@
        "format": "source",
        "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
        "download_detour": "auto"
-      }
+      },
+      {
+       "tag": "geosite-wechat",
+       "type": "remote",
+       "format": "source",
+       "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
+       "download_detour": "auto"
+      },
     ]
   }
 }
