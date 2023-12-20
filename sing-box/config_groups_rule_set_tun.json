@@ -356,7 +356,7 @@
         "outbound": "🎮 Game"
       },
       {
-        "rule_set": "geosite-bilibili",
+        "rule_set": "geosite-bilibili,geosite-wechat",
         "outbound": "📺 Bilibili"
       },
       {
@@ -575,11 +575,11 @@
         "download_detour": "direct"
       },
       {
-  "tag": "geosite-wechat",
-  "type": "remote",
-  "format": "source",
-  "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
-  "download_detour": "auto"
+       "tag": "geosite-wechat",
+       "type": "remote",
+       "format": "source",
+       "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
+       "download_detour": "auto"
       }
     ]
   }
