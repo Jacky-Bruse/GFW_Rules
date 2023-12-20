@@ -570,14 +570,13 @@
        "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
        "download_detour": "auto"
       },
-
       {
        "tag": "geosite-twitter",
        "type": "remote",
        "format": "source",
        "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/Twitter.json",
        "download_detour": "auto"
-      },
+      }
     ]
   }
 }
