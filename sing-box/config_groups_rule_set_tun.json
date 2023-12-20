@@ -382,20 +382,6 @@
     ],
     "rule_set": [
       {
-       "tag": "geosite-wechat",
-       "type": "remote",
-       "format": "source",
-       "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/WeChat.json",
-       "download_detour": "auto"
-      },
-      {
-       "tag": "geosite-wechat",
-       "type": "remote",
-       "format": "source",
-       "url": "https://raw.githubusercontent.com/Jacky-Bruse/Sing-rule/main/rule/WeChat.json",
-       "download_detour": "auto"
-      },
-      {
         "tag": "geoip-google",
         "type": "remote",
         "format": "binary",
