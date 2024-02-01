@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,ai.google.dev
+DOMAIN,makersuite.google.com
