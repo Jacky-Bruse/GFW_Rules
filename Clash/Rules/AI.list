@@ -1,6 +1,5 @@
 # NAME: AI
 # TOTAL: *
-DOMAIN-SUFFIX,google.com
 DOMAIN,makersuite.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,api.gemini-chat.pro
