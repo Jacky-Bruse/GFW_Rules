@@ -1,16 +1,3 @@
 # NAME: AI
 # TOTAL: *
-DOMAIN,makersuite.google.com
-DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,api.gemini-chat.pro
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,imagine.meta.com
-DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN,ai.google.dev
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,clients4.google.com
