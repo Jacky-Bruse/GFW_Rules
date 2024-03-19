@@ -1,3 +1,6 @@
+#Google Play规则
+domain:xn--ngstr-lra8j.com
+domain:googleapis.cn
 #内容：WeChat规则
 IP-ASN,132203
 DOMAIN,dl.wechat.com
