@@ -14,7 +14,7 @@ PROCESS-NAME,com.tencent.wework
 #Google Play规则
 #domain,xn--ngstr-lra8j.com
 #domain,googleapis.cn
-DOMAIN-SUFFIX,accweather.com
+#DOMAIN-SUFFIX,accweather.com
 
 #内容：WeChat规则
 IP-ASN,132203
