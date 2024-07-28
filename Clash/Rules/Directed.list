@@ -1,7 +1,15 @@
 #app
-PROCESS-NAME,wechat
 PROCESS-NAME,com.tencent.mm
 PROCESS-NAME,com.smzdm.client.android
+PROCESS-NAME-REGEX,.*tencent.*
+PROCESS-NAME,com.jingdong.app.mall
+PROCESS-NAME,com.smzdm.client.android
+PROCESS-NAME,com.MobileTicket
+PROCESS-NAME,com.tencent.mm
+PROCESS-NAME,com.taobao.idlefish
+PROCESS-NAME,com.eg.android.AlipayGphone
+PROCESS-NAME,cn.gov.tax.its
+PROCESS-NAME,com.tencent.wework
 
 #Google Play规则
 #domain,xn--ngstr-lra8j.com
