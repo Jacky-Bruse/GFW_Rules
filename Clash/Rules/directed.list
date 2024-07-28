@@ -1,7 +1,7 @@
 #app
 PROCESS-NAME,com.tencent.mm
 PROCESS-NAME,com.smzdm.client.android
-PROCESS-NAME-REGEX,.*tencent.*
+#PROCESS-NAME-REGEX,.*tencent.*  #启用后所有app带tecent都按照此规则处理，不能启用，这样腾讯海外版会直连
 PROCESS-NAME,com.jingdong.app.mall
 PROCESS-NAME,com.smzdm.client.android
 PROCESS-NAME,com.MobileTicket
