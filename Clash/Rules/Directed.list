@@ -259,14 +259,14 @@ DOMAIN-SUFFIX,12306.cn
 
 # 以下规则需要国内直连
 ## TPTV
-DOMAIN-SUFFIX,mobaibox.com,DIRECT
-IP-CIDR,183.207.0.0/16,DIRECT,no-resolve
+DOMAIN-SUFFIX,mobaibox.com
+IP-CIDR,183.207.0.0/16,no-resolve
 
 ## YSP
-DOMAIN-SUFFIX,cctv.cn,DIRECT
-DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn
 
 ## ITV
-DOMAIN-SUFFIX,dnsany.com,DIRECT
-DOMAIN-SUFFIX,cmvideo.cn,DIRECT
-DOMAIN-SUFFIX,chinamobile.com,DIRECT
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,chinamobile.com
