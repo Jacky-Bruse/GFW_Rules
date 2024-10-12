@@ -256,3 +256,17 @@ IP-CIDR,162.62.163.63/32,no-resolve
 IP-CIDR,183.206.0.0/15,no-resolve
 #12306
 DOMAIN-SUFFIX,12306.cn
+
+# 以下规则需要国内直连
+## TPTV
+DOMAIN-SUFFIX,mobaibox.com,DIRECT
+IP-CIDR,183.207.0.0/16,DIRECT,no-resolve
+
+## YSP
+DOMAIN-SUFFIX,cctv.cn,DIRECT
+DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+
+## ITV
+DOMAIN-SUFFIX,dnsany.com,DIRECT
+DOMAIN-SUFFIX,cmvideo.cn,DIRECT
+DOMAIN-SUFFIX,chinamobile.com,DIRECT
