@@ -51,7 +51,8 @@ DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixinsxy.com
 DOMAIN-SUFFIX,wxapp.tc.qq.com
-
+DOMAIN-SUFFIX,tracker.rainbowisland.co
+DOMAIN,tracker.rainbowisland.co
 DOMAIN-SUFFIX,szaxshort.weixin.qq.com
 DOMAIN-SUFFIX,axshort.weixin.qq.com
 DOMAIN-SUFFIX,mldisas.weixin.qq.com
