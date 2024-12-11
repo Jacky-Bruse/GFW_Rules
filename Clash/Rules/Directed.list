@@ -51,8 +51,6 @@ DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixinsxy.com
 DOMAIN-SUFFIX,wxapp.tc.qq.com
-DOMAIN-SUFFIX,tracker.rainbowisland.co
-DOMAIN,tracker.rainbowisland.co
 DOMAIN-SUFFIX,szaxshort.weixin.qq.com
 DOMAIN-SUFFIX,axshort.weixin.qq.com
 DOMAIN-SUFFIX,mldisas.weixin.qq.com
@@ -148,6 +146,8 @@ DOMAIN-SUFFIX,sgaxshort.wechat.com
 DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,tracker.rainbowisland.co
 DOMAIN-SUFFIX,tracker.ptchdbits.co
+DOMAIN-SUFFIX,tracker.rainbowisland.co
+DOMAIN,tracker.rainbowisland.co
 
 IP-CIDR,101.32.0.0/16,no-resolve
 IP-CIDR,129.226.0.0/16,no-resolve
