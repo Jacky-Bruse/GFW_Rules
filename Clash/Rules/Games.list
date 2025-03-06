@@ -1,7 +1,6 @@
 #NAME: Games
 DOMAIN-SUFFIX,sg-dr.intlgame.com
 DOMAIN-SUFFIX,sg.tdatamaster.com
-#PUBG
 DOMAIN-SUFFIX,mgl.lobby.igamecj.com
 DOMAIN-SUFFIX,tdatamaster.com
 DOMAIN-SUFFIX,ig-us-sdkapi.igamecj.com
@@ -9,12 +8,23 @@ DOMAIN-SUFFIX,totope.hwy.tcdnos.com
 DOMAIN-SUFFIX,f.totope.com
 DOMAIN-SUFFIX,totope.bytes.tcdnos.com
 DOMAIN-SUFFIX,k.gjacky.com
-DOMAIN-SUFFIX,adjust.com
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,igamecj.com
-DOMAIN-SUFFIX,gjacky.com
-DOMAIN-SUFFIX,tdatamaster.com
-
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,cloudctrl.igamecj.com
+DOMAIN-SUFFIX,api.helpshift.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,android.crashsight.wetest.net
+DOMAIN-SUFFIX,app.adjust.com
+DOMAIN-SUFFIX,cloud.gsdk.proximabeta.com
+DOMAIN-SUFFIX,cloud.vmp.onezapp.com
+DOMAIN-SUFFIX,app.adjust.io
+DOMAIN-SUFFIX,dl.listdl.com
+DOMAIN-SUFFIX,ig-us-notice.igamecj.com
+DOMAIN-SUFFIX,dl.gjacky.com
+DOMAIN-SUFFIX,gameswhitelisted.googleapis.com
+DOMAIN-SUFFIX,games.googleapis.com
+DOMAIN-SUFFIX,android.googleapis.com
+DOMAIN-SUFFIX,asia.csoversea.mbgame.anticheatexpert.com
+DOMAIN-SUFFIX,gcloud.download.igamecj.com
 
 #Arena
 DOMAIN-SUFFIX,adjust.world
