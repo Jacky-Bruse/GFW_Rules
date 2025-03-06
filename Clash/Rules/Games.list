@@ -27,6 +27,22 @@ DOMAIN-SUFFIX,asia.csoversea.mbgame.anticheatexpert.com
 DOMAIN-SUFFIX,gcloud.download.igamecj.com
 IP-CIDR,119.28.33.29/32,no-resolve
 
+DOMAIN-SUFFIX,sg.tdatamaster.com
+DOMAIN-SUFFIX,ig-us-sdkapi.igamecj.com
+DOMAIN-SUFFIX,cloudctrl.igamecj.com
+DOMAIN-SUFFIX,android.crashsight.wetest.net
+DOMAIN-SUFFIX,cloud.gsdk.proximabeta.com
+DOMAIN-SUFFIX,cloud.vmp.onezapp.com
+DOMAIN-SUFFIX,119.28.33.29
+DOMAIN-SUFFIX,asia.csoversea.mbgame.anticheatexpert.com
+DOMAIN-SUFFIX,mgl.lobby.igamecj.com
+
+
+
+
+
+
+
 #Arena
 DOMAIN-SUFFIX,adjust.world
 DOMAIN-SUFFIX,adjust.net.in
