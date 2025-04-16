@@ -20,5 +20,4 @@ DOMAIN-SUFFIX,cashappapi.com
 DOMAIN-SUFFIX,appsflyersdk.com
 
 
-# DOMAIN-SUFFIX,aiapi.xixi.day
-# DOMAIN-SUFFIX,aiapi.lovelyxixi.com
+DOMAIN,aiapi.xixi.day
