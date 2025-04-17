@@ -287,3 +287,10 @@ DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
+
+
+#Game 20250417
+DOMAIN-SUFFIX,cloud.gsdk.proximabeta.com
+IP-CIDR,43.129.145.118/32
+IP-CIDR,43.154.254.133/32
+IP-CIDR,43.129.145.118/32
