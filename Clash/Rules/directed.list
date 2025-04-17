@@ -1,6 +1,5 @@
-#app
 #PROCESS-NAME,com.smzdm.client.android
-#PROCESS-NAME-REGEX,.*tencent.*  #启用后所有app带tecent都按照此规则处理，不能启用，这样腾讯海外版会直连
+#PROCESS-NAME-REGEX,.*tencent.* #启用后所有app带tecent都按照此规则处理，不能启用，这样腾讯海外版会直连
 PROCESS-NAME,com.jingdong.app.mall
 PROCESS-NAME,com.smzdm.client.android
 PROCESS-NAME,com.MobileTicket
@@ -15,10 +14,8 @@ PROCESS-NAME,com.tencent.wework
 DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,tracker.rainbowisland.co
 DOMAIN-SUFFIX,tracker.ptchdbits.co
-DOMAIN-SUFFIX,tracker.rainbowisland.co
 DOMAIN,tracker.rainbowisland.co
 DOMAIN,tracker.m-team.cc
-DOMAIN,tracker.rainbowisland.co
 DOMAIN,tracker.ptchdbits.co
 
 #Google Play规则
@@ -133,25 +130,8 @@ DOMAIN-SUFFIX,shmmsns.qpic.cn
 DOMAIN-SUFFIX,szmmsns.qpic.cn
 DOMAIN-SUFFIX,vweixinf.tc.qq.com
 DOMAIN-SUFFIX,c6.y.qq.com
-DOMAIN-SUFFIX,weixin.qq.com
-DOMAIN-SUFFIX,wx.qlogo.cn
-DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,emoji.qpic.cn
 DOMAIN-SUFFIX,resstatic.servicewechat.com
-DOMAIN-SUFFIX,hkshort.weixin.qq.com
-DOMAIN-SUFFIX,hkaxshort.weixin.qq.com
-DOMAIN-SUFFIX,hkextshort.weixin.qq.com
-DOMAIN-SUFFIX,hkdisas.weixin.qq.com
-DOMAIN-SUFFIX,hkshort6.weixin.qq.com
-DOMAIN-SUFFIX,hkshort.pay.weixin.qq.com
-DOMAIN-SUFFIX,hklong.weixin.qq.com
-DOMAIN-SUFFIX,hkminorshort.weixin.qq.com
-DOMAIN-SUFFIX,hkquic.weixin.qq.com
-DOMAIN-SUFFIX,sgshort.pay.wechat.com
-DOMAIN-SUFFIX,sglong.wechat.com
-DOMAIN-SUFFIX,sgminorshort.wechat.com
-DOMAIN-SUFFIX,sgshort.wechat.com
-DOMAIN-SUFFIX,sgaxshort.wechat.com
 
 
 IP-CIDR,101.32.0.0/16,no-resolve
@@ -164,12 +144,10 @@ IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.133.0/22,no-resolve
 IP-CIDR,101.32.0.0/20,no-resolve
 IP-CIDR,101.32.102.0/23,no-resolve
-IP-CIDR,101.32.104.0/21,no-resolve
 IP-CIDR,101.32.112.0/23,no-resolve
 IP-CIDR,101.32.112.0/24,no-resolve
 IP-CIDR,101.32.114.0/23,no-resolve
 IP-CIDR,101.32.116.0/23,no-resolve
-IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.120.0/23,no-resolve
 IP-CIDR,101.32.122.0/23,no-resolve
 IP-CIDR,101.32.124.0/23,no-resolve
