@@ -294,3 +294,8 @@ DOMAIN-SUFFIX,cloud.gsdk.proximabeta.com
 IP-CIDR,43.129.145.118/32,no-resolve
 IP-CIDR,43.154.254.133/32,no-resolve
 IP-CIDR,43.129.145.118/32,no-resolve
+IP-CIDR,43.129.146.251/32,no-resolve
+IP-CIDR,43.129.146.111/32,no-resolve
+IP-CIDR,162.62.82.169/32,no-resolve
+IP-CIDR,119.28.157.240/32,no-resolve
+IP-CIDR,124.156.217.186/32,no-resolve
