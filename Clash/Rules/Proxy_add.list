@@ -7,8 +7,8 @@ DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,lsposed.org
 
 #Google Play规则
-DOMAIN-SUFFIX,,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,modules-cloudflare.lsposed.org
 DOMAIN-SUFFIX,api.ipgeolocation.io
 DOMAIN-SUFFIX,ipgeolocation.io
