@@ -26,7 +26,7 @@ DOMAIN,tracker.ptchdbits.co
 DOMAIN-SUFFIX,abchina.com.cn
 
 #内容：WeChat规则
-IP-ASN,132203
+IP-ASN,132203,no-resolve
 DOMAIN,dl.wechat.com
 DOMAIN,sgfindershort.wechat.com
 DOMAIN,sgilinkshort.wechat.com
@@ -132,7 +132,26 @@ DOMAIN-SUFFIX,vweixinf.tc.qq.com
 DOMAIN-SUFFIX,c6.y.qq.com
 DOMAIN-SUFFIX,emoji.qpic.cn
 DOMAIN-SUFFIX,resstatic.servicewechat.com
-
+DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+DOMAIN,btrace.qq.com
+DOMAIN,dldir1.qq.com
+DOMAIN,slife.xy-asia.com
+DOMAIN,soup.v.qq.com
+DOMAIN,vweixinf.tc.qq.com
+DOMAIN,weixin110.qq.com
+DOMAIN,wup.imtt.qq.com
+DOMAIN-SUFFIX,iot-tencent.com
+DOMAIN-SUFFIX,lbs.gtimg.com
+DOMAIN-SUFFIX,map.qq.com
+DOMAIN-SUFFIX,up-hl.3g.qq.com
+DOMAIN-SUFFIX,vweixinthumb.tc.qq.com
+DOMAIN-SUFFIX,wechatos.net
+DOMAIN-SUFFIX,wechatpay.cn
+DOMAIN-SUFFIX,wechatpay.com.hk
+DOMAIN-SUFFIX,wx.gtimg.com
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,yun-hl.3g.qq.com
 
 IP-CIDR,101.32.0.0/16,no-resolve
 IP-CIDR,129.226.0.0/16,no-resolve
