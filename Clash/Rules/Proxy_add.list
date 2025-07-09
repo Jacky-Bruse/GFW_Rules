@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,appsflyersdk.com
 
 DOMAIN,aiapi.xixi.day
 DOMAIN,newapi.xixi.day
+DOMAIN,sub.lovelyxixi.com
 
 # 境外 DNS 服务器 IP 走代理
 # Google DNS
