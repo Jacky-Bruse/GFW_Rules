@@ -40,3 +40,9 @@ DOMAIN,sub.lovelyxixi.com
 # AdGuard DNS
 #IP-CIDR,94.140.14.14/32,no-resolve
 #IP-CIDR,94.140.15.15/32,no-resolve
+
+#Folo
+DOMAIN-SUFFIX,follow.is
+DOMAIN-SUFFIX,spq.pixnoy.com
+DOMAIN-SUFFIX,instagram.fcps2-1.fna.fbcdn.net
+DOMAIN-SUFFIX,us.i.posthog.com
