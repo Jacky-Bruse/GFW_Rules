@@ -50,3 +50,6 @@ DOMAIN-SUFFIX,folo.is
 DOMAIN-SUFFIX,cdn1.cdn-telegram.org
 DOMAIN-SUFFIX,cdn5.cdn-telegram.org
 DOMAIN-SUFFIX,cdn-telegram.org
+
+#Debian
+DOMAIN-KEYWORD,debian
