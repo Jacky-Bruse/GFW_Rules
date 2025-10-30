@@ -291,3 +291,6 @@ IP-CIDR,45.121.184.0/24
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,tailscale.com
 PROCESS-NAME,tailscaled
+
+#京东
+DOMAIN-SUFFIX,jd.com
