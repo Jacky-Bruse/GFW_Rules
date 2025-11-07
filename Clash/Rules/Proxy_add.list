@@ -53,3 +53,6 @@ DOMAIN-SUFFIX,cdn-telegram.org
 
 #Debian
 DOMAIN-KEYWORD,debian
+
+#accuweather
+DOMAIN-SUFFIX,accuweather.com
