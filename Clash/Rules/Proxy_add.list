@@ -16,8 +16,13 @@ DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,gauss-componentotacostmanual-eu.allawnofs.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,paly-fe.googleapis.com
-DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,dl.google.com
 
 #cash app
 DOMAIN-SUFFIX,cashappapi.com
