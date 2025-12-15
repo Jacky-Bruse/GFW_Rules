@@ -153,7 +153,14 @@ DOMAIN-SUFFIX,wx.gtimg.com
 DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,wxapp.tc.qq.com
+DOMAIN-SUFFIX,dns.wechat.com
+DOMAIN-SUFFIX,sgshort.wechat.com
+DOMAIN-SUFFIX,sgminorshort.wechat.com
 
+IP-CIDR,43.160.156.23/32,no-resolve
 IP-CIDR,101.32.0.0/16,no-resolve
 IP-CIDR,129.226.0.0/16,no-resolve
 IP-CIDR,43.130.194.0/23,no-resolve
