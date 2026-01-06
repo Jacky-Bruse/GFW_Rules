@@ -67,3 +67,9 @@ DOMAIN-KEYWORD,debian
 DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akamaitechnologies.com
+
+DOMAIN,region1.v2.argotunnel.com
+DOMAIN,region2.v2.argotunnel.com
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cftunnel.com
+DOMAIN-SUFFIX,cloudflare.com
