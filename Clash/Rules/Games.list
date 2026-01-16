@@ -30,7 +30,9 @@ DOMAIN-SUFFIX,api.club.gpubgm.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,igamecj.com
 #DOMAIN-SUFFIX,
-
+DST-PORT,8013
+DST-PORT,17500
+DST-PORT,10012
 
 #Arena
 DOMAIN-SUFFIX,adjust.world
