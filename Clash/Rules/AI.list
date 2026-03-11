@@ -15,3 +15,9 @@ DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,88code.org
+DOMAIN-SUFFIX,api.anthropic.com
+DOMAIN-SUFFIX,statsig.anthropic.com
+DOMAIN-SUFFIX,platform.claude.com
+DOMAIN-SUFFIX,code.claude.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,api.openai.com
