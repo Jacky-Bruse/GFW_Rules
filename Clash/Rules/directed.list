@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
 
 # tailscale
-IP-CIDR,45.121.184.0/24
+IP-CIDR,45.121.184.0/24,no-resolve
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,tailscale.com
 PROCESS-NAME,tailscaled
